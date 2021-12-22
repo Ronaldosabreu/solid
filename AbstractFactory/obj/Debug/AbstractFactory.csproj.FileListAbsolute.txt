@@ -1,0 +1,7 @@
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho\Ronaldo_Estudos\SOLID\Solid\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho\Ronaldo_Estudos\SOLID\Solid\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho\Ronaldo_Estudos\SOLID\Solid\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho\Ronaldo_Estudos\SOLID\Solid\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho\Ronaldo_Estudos\SOLID\Solid\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho\Ronaldo_Estudos\SOLID\Solid\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho\Ronaldo_Estudos\SOLID\Solid\AbstractFactory\obj\Debug\AbstractFactory.pdb
